@@ -6,6 +6,13 @@ ZCZC W00   5 L11 Assignment #1
 ZCZC W00   5 L12 Assignment #2
 ZCZC W00   5 L13 Assignment #3
 ZCZC W00   5 L14 Assignment #4
-ZCGC W00  90 L02 ZOOM: first meeting
-ZCGC W00  60 L06 Reading text book
-ZCGC W00  60 L22 YouTube: study
+ZCZC W00  90 L02 ZOOM: first meeting
+ZCZC W00  60 L06 Reading text book
+ZCZC W00  60 L22 YouTube: study
+ZCZC W01 100 L02 ZOOM: Weekly Zoom Meeting
+ZCZC W01 120 L11 Assignment #1
+ZCZC W01 120 L17 Assignment #7
+ZCZC W01 240 L10 Assignment (General)
+ZCZC W01  90 L22 Youtube: study
+ZCZC W01  90 L23 Discord: Pop Quiz
+ZCZC W01  90 L26 Movie: relax
