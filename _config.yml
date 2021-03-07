@@ -1,0 +1,11 @@
+title: "Operating Systems 2021-1 (OS211)"
+author: "Shafira Putri Novia Hartanti"
+sitemap: "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb: "https://shafiraputri01.github.io/os211/"
+urlgithub: "https://github.com/shafiraputri01/os211/"
+urlghpage: "https://shafiraputri01.github.io/os211/"
+keywords: "jekyll, testing"
+github: [metadata]
