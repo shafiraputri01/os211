@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}
+        {% else %}{{ site.title | escape }}{% endif %}
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.excerpt | default: site.description }}">
+
+    <style>
+        .container {
+            max-width: 80%;
+            margin: 40px auto;
+            font-size: 1em;
+            font-family: helvetica, sans-serif;
+            text-align: justify;
+        }
+
+        header {
+            color: #021199;
+        }
+
+        .navbar {
+            background-color: #26aaf7;
+            color: #FFFFFF;
+            font-size: 1em;
+        }
+
+        .navbar ul li {
+            display: inline-block;
+            padding: 5px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .navbar ul li a {
+            text-decoration: none;
+            color: inherit;
+            background-color: inherit;
+        }
+
+        .navbar ul li a:hover {
+            color: #021199;
+            font-weight: bolder;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Operating Systems 2021-1 (OS211)</h1>
+            <h3>
+                {% if page.author %}{{ page.author | escape }}
+                {% else %}{{ site.author | escape }}{% endif %}
+            </h3>
+        </header>
+
+        <nav class="navbar">
+            <ul>
+                <li class='listitem'><a href='{{ site.baseurl }}/'>HOME</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W01/'>W01</a></li>
+                <!-- <li class='listitem'><a href='{{ site.baseurl }}/W02/'>W02</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W03/'>W03</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W04/'>W04</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W05/'>W05</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W06/'>W06</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W07/'>W07</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W08/'>W08</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W09/'>W09</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/W10/'>W10</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/TXT/mypubkey.txt'>KEY</a></li>
+                <li class='listitem'><a href='{{ site.baseurl }}/TXT/myrank.txt'>RANK</a></li> -->
+                <li class='listitem'><a href='{{ site.baseurl }}/TXT/mylog.txt'>LOG</a></li>
+                <li class='listitem'><a href='{{ site.urlgithub }}'>GitHub</a></li>
+            </ul>
+        </nav>
+        <br><br>
+
+        <section>
+            {{ content }}
+        </section>
+
+    </div>
+</body>
+
+</html>
