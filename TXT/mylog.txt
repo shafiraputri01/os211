@@ -16,3 +16,4 @@ ZCZC W01 240 L10 Assignment (General)
 ZCZC W01  90 L22 Youtube: study
 ZCZC W01  90 L23 Discord: Pop Quiz
 ZCZC W01  90 L26 Movie: relax
+ZCZC W01  60 L04 GitHub Pages: setting layout
