@@ -26,3 +26,9 @@ ZCZC W02  90 L26 Movie: relax
 ZCZC W02  50 L01 Scele: Pop Quiz
 ZCZC W02  20 L23 Discord: Pop Quiz
 ZCZC W02  20 L07 Demo related
+ZCZC W03  80 L02 ZOOM: Weekly Zoom Meeting
+ZCZC W03  30 L06 Read OSC Slides
+ZCZC W03 110 L06 Read text book
+ZCZC W03  75 L05 GSGS Related
+ZCZC W03  25 L01 Scele: Pop Quiz
+ZCZC W03 100 L10 Assignment (General)
