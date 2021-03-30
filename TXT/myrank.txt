@@ -5,3 +5,6 @@ ZCZC W01 Theophilus-Lukas
 ZCZC W02 tarameccaluna
 ZCZC W02 Trigonometr1
 ZCZC W02 tsanaativa
+ZCZC W03 shanikatysha
+ZCZC W03 SinusCosinusTangen
+ZCZC W03 VadimBhirawa

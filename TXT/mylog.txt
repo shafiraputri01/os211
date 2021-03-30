@@ -32,3 +32,11 @@ ZCZC W03 110 L06 Read text book
 ZCZC W03  75 L05 GSGS Related
 ZCZC W03  25 L01 Scele: Pop Quiz
 ZCZC W03 140 L10 Assignment (General)
+ZCZC W04  10 L01 Scele: Pop Quiz
+ZCZC W04  90 L02 ZOOM: Weekly Zoom Meeting
+ZCZC W04  90 L05 GSGS Related
+ZCZC W04  75 L06 Read text book
+ZCZC W04  15 L06 Read OSC Slide Chapter 9
+ZCZC W04 130 L10 Assignment (General)
+ZCZC W04  15 L22 Youtube: study
+ZCZC W04  30 L23 Discord: Pop Quiz
