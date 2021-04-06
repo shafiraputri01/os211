@@ -8,3 +8,6 @@ ZCZC W02 tsanaativa
 ZCZC W03 shanikatysha
 ZCZC W03 SinusCosinusTangen
 ZCZC W03 VadimBhirawa
+ZCZC W04 SinusCosinusTangen
+ZCZC W04 stevensim226
+ZCZC W04 Trigonometr1

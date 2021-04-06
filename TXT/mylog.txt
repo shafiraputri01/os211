@@ -40,3 +40,10 @@ ZCZC W04  15 L06 Read OSC Slide Chapter 9
 ZCZC W04 130 L10 Assignment (General)
 ZCZC W04  15 L22 Youtube: study
 ZCZC W04  30 L23 Discord: Pop Quiz
+ZCZC W05  40 L01 Scele: Pop Quiz
+ZCZC W05  80 L02 ZOOM: Weekly Zoom Meeting
+ZCZC W05  90 L05 GSGS Related
+ZCZC W05  80 L06 Read text book
+ZCZC W05 150 L10 Assignment (General)
+ZCZC W05  40 L23 Discord: Pop Quiz
+ZCZC W05  60 L26 Movie: relax
