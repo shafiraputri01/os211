@@ -47,3 +47,8 @@ ZCZC W05  80 L06 Read text book
 ZCZC W05 150 L10 Assignment (General)
 ZCZC W05  40 L23 Discord: Pop Quiz
 ZCZC W05  60 L26 Movie: relax
+ZCZC W06  60 L01 Scele: Pop Quiz
+ZCZC W06 110 L02 ZOOM: Weekly Zoom Meeting
+ZCZC W06 100 L05 GSGS Related
+ZCZC W06  85 L06 Read text book
+ZCZC W06 130 L10 Assignment (General)

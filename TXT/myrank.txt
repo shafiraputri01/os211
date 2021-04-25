@@ -11,3 +11,6 @@ ZCZC W03 VadimBhirawa
 ZCZC W04 SinusCosinusTangen
 ZCZC W04 stevensim226
 ZCZC W04 Trigonometr1
+ZCZC W05 sunnysani
+ZCZC W05 Theophilus-Lukas
+ZCZC W05 Trigonometr1
