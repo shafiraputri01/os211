@@ -57,3 +57,8 @@ ZCZC W07  90 L02 ZOOM: Weekly Zoom Meeting
 ZCZC W07  90 L05 GSGS Related
 ZCZC W07 125 L06 Read text book
 ZCZC W07 150 L10 Assignment (General)
+ZCZC W08  60 L01 Scele: Pop Quiz
+ZCZC W08 100 L02 ZOOM: Weekly Zoom Meeting
+ZCZC W08 100 L05 GSGS Related
+ZCZC W08  60 L06 Read text book
+ZCZC W08 280 L10 Assignment (General)
